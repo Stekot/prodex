@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export_full date="2022-03-29 07:01:28" version="20160107">
+    <items>
+        <item code="A6013" image="https://www.astramodel.cz/images/A/800x600/A6013.jpg" imageDate="2017-04-03"
+              name="Pult pro ST16 / ST24 uhlík" brandId="32" brand="ASTRA" czk="2899.00" eur="113.30" czksmap="2899.00"
+              eursmap="113.30" hasPrice="true" created="2017-03-24" changed="" new="false" stock="true" date=""
+              stock2="true" date2="" stock3="low" date3="" discontinued="false" weight="0.428" length="0.480"
+              width="0.200" height="0.030" recycling_fee="">
+            <descriptions>
+                <description title="Charakteristika" order="1">&lt;p&gt;Pult pro ST16 / ST24 uhlík je doplňkovým
+                    příslušenstvím pro vysílače Yuneec ST16/ST24&lt;/p&gt;
+                </description>
+                <description title="Obsah balení" order="3">&lt;p&gt;Obsahem balení je Pult pro ST16 / ST24 uhlík v
+                    rozloženém stavu, 2ks hliníkových držáků, 2ks hliníkových spodních fixačních plošek, 2ks distanční
+                    sloupky, sada spojovacího materiálu včetně potřebného nářadí, obrázkový návod na sestavení&lt;/p&gt;
+                </description>
+                <description title="Charakteristika" order="4">&lt;p&gt;Pult pro ST16 / ST24 uhlík je doplňkovým
+                    příslušenstvím pro vysílače Yuneec ST16/ST24. Jednoduše vysílač umístíte do přesně vyrobeného pultu,
+                    můžete si na něj opřít ruce a nemusíte vysílač držet. Oceníte jistě v chladnějším počasí. Elegantní
+                    design, vyrobeno z pravého uhlíku, nízká hmotnost, hliníkové držáky pro popruh jak přes krk &lt;b&gt;ASTRA
+                    popruh vysílače (AK1020)&lt;/b&gt;, tak křížový přes záda &lt;b&gt;ASTRA popruh vysílače křížový
+                    (AK1021)&lt;/b&gt;.&lt;/p&gt;
+                </description>
+            </descriptions>
+            <specs>
+                <spec paramId="433" name="Rozměr">451 x 165 x 120 mm</spec>
+                <spec paramId="114" name="Hmotnost">378 g</spec>
+                <spec paramId="187" name="Materiál">Uhlík 2 mm</spec>
+            </specs>
+            <gallery>
+                <image ref="https://www.astramodel.cz/fotogalerie/astra/a6013/800x600/A6013.jpg" title="" size="123712"
+                       hash=""/>
+            </gallery>
+            <parts>
+                <part categoryId="6" name="Doporučené příslušenství" order="3">
+                    <item code="AK1020" name="ASTRA popruh vysílače jednoduchý"/>
+                </part>
+            </parts>
+        </item>
+    </items>
+</export_full>

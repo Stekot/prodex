@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export_full date="2022-03-29 07:01:28" version="20160107">
+    <items>
+        <item code="A1005" image="https://www.astramodel.cz/images/A/800x600/A1005.jpg" imageDate="2014-04-08"
+              name="Uhlíková tyčka 0.6mm (1m)" brandId="32" brand="ASTRA" czk="89.00" eur="3.50" czksmap="89.00"
+              eursmap="3.50" hasPrice="true" created="2014-01-09" changed="" new="false" stock="true" date=""
+              stock2="true" date2="" stock3="high" date3="" discontinued="false" weight="0.001" length="0.001"
+              width="0.001" height="1.000" recycling_fee="">
+            <descriptions>
+                <description title="Charakteristika" order="1">&lt;p&gt;Tyč z uhlíkových vláken kruhového průřezu ø0.6&amp;nbsp;mm
+                    v délce 1&amp;nbsp;m. Hmotnost 0,3&amp;nbsp;g&lt;/p&gt;
+                </description>
+            </descriptions>
+        </item>
+    </items>
+</export_full>
